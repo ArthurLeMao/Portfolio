@@ -45,12 +45,12 @@ p {
 }
 
 a {
-  color: #0088cc;
+  color: #694F83;
   text-decoration: none;
 }
 
 a:hover {
-	color: #005580;
+	color: #9F62CF;
 	text-decoration: underline;
 }
 
@@ -1136,7 +1136,7 @@ input[type="submit"].btn.btn-mini {
 }
 
 .btn-link:hover {
-  color: #005580;
+  
   text-decoration: underline;
   background-color: transparent;
 }
