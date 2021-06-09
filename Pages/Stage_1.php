@@ -49,7 +49,7 @@
 					<li><h5>Mis en place de filtres pour chercher des applications</h5></li>
 					<li><h5>Possibilité d'accéder à une application pour visualiser ses informations</h5></li>
 					<li><h5>Possibilité de modifier les informations</h5></li>
-					<li><h5>Fonctionnalité permettant l'ajout/suppression d'applications</h5></li>
+					<li><h5>Fonctionnalité permettant l'ajout/suppression d'application</h5></li>
 				</ul>
 			</div>
 		</div>
