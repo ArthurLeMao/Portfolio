@@ -8,7 +8,7 @@
 				<!-- logo -->
 				<div class="logo">
 				<a style="text-decoration : none;" href="?page=Home"><h1 style="font-style : italic ; font-weight : 900 ; font-size: 220% ;">Portfolio</h1></a>
-				  <!--<a href="index.php"><img src="assets/img/logo.png" alt="" /></a>-->
+				  <!--<a href="index.html"><img src="assets/img/logo.png" alt="" /></a>-->
 				</div>
 				<!-- end logo -->
 
@@ -17,7 +17,7 @@
 				  <nav>
 					<ul class="nav topnav">
 					  <li>                    
-											  <a href="../index.php"></i>Accueil </a>
+											  <a href="../index.html"></i>Accueil </a>
 					  </li>
 					  <li>                    <a href="PPE1.php"></i>PPE1</a>
 					  </li>
